@@ -1,0 +1,20 @@
+{
+    "name": "theomarsilvarego/framework",
+    "autoload": {
+        "psr-4": {
+            "Theomarsilvarego\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Theomar rego",
+            "email": "theomar.rego@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
